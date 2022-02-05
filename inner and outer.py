@@ -12,6 +12,8 @@
 # [[0 0]
 #  [2 3]]
 
+# To learn more about inner and outer: https://numpy.org/doc/stable/reference/generated/numpy.inner.html
+
 # Answer: 
 import numpy
 
